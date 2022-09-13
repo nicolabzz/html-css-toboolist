@@ -85,12 +85,11 @@ h1{
 }
 
 #today-oggetto{
-    height: 200px;
+    height: 225px;
     border: 1px solid black;
 }
 
 #upcoming-oggetto{
-    height: 200px;
-
+    height: 225px;
     border: 1px solid black;
 }
