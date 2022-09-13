@@ -40,6 +40,7 @@ h1{
     border-bottom: 2px solid rgba(143, 143, 143, 0.5);
     width: 100%;
     padding: 20px 65px 13px 65px;
+    margin-bottom: 25px;
 }
 
 .add{
@@ -66,12 +67,25 @@ h1{
 
 /* -----sezione: NEW TASK----- */
 .new-task{
-    margin-top: 55;
+    margin-top: 0;
     width: 100%;
-    border: 1px solid black;
-    
 }
 
-.new-task-subject{
-    
+.titoli{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    margin: 0 95px;
+    padding-bottom: 25px;
+}
+
+#new-task-oggetto{
+
+}
+
+#today-oggetto{
+
+}
+
+#upcoming-oggetto{
+
 }
