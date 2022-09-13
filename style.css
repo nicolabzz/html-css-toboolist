@@ -37,7 +37,6 @@ h1{
 
 /* -----I DUE SPAN----- */
 .head-div{
-    top: 0;
     border-bottom: 2px solid rgba(143, 143, 143, 0.5);
     width: 100%;
     padding: 20px 65px 13px 65px;
@@ -120,4 +119,98 @@ h1{
     height: 195px;
     width: 100%;
     border: 1px solid rgb(0, 0, 0);
+}
+
+.object-line{
+    margin-bottom: 15px;
+}
+
+/* --zona CHECKED/UNCHECKED lato sx */
+.checked{
+    border: 2px solid rgba(131,205,188,255);
+    color: rgba(131,205,188,255);
+    border-radius: 50px;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.unchecked{
+    border: 2px solid rgba(235,89,82,255);
+    color: rgba(235,89,82,255);
+    border-radius: 50px;
+    font-size: 16px;
+padding-left: 4px;
+}
+
+/* --zona INNFO LATO DX-- */
+.editorial{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(69,171,234,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.editorial{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(69,171,234,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.q1goals{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(156,114,228,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.recruiting{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(100,192,169,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.mobile{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(242,158,51,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.website{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(216,99,161,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.sales{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(176,201,38,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
+}
+
+.editorial{
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(69,171,234,255);
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 8px;
 }
