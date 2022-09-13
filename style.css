@@ -35,6 +35,7 @@ h1{
     background-color: white;
 }
 
+/* -----I DUE SPAN----- */
 .head-div{
     top: 0;
     border-bottom: 2px solid rgba(143, 143, 143, 0.5);
@@ -49,7 +50,6 @@ h1{
     text-align: center;
 }
 
-/* -----HEADER----- */
 #add-task{
     background-color: rgba(71,173,241,255);
     color: white;
@@ -64,6 +64,7 @@ h1{
     font-weight: bold;
     padding: 6px 14px;
 }
+/* ---------- */
 
 /* -----sezione: NEW TASK----- */
 .new-task{
@@ -74,18 +75,22 @@ h1{
 .titoli{
     font-family: 'PT Sans', sans-serif;
     font-weight: 700;
-    margin: 0 95px;
+    margin: 0 70px;
     padding-bottom: 25px;
 }
 
 #new-task-oggetto{
-
+    height: 100px;
+    border: 1px solid black;
 }
 
 #today-oggetto{
-
+    height: 200px;
+    border: 1px solid black;
 }
 
 #upcoming-oggetto{
+    height: 200px;
 
+    border: 1px solid black;
 }
