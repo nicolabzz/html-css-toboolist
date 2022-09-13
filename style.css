@@ -126,6 +126,7 @@ h1{
     border-radius: 50px;
     font-size: 15px;
     padding-left: 5px;
+    margin-right: 10px;
 }
 
 .unchecked{
@@ -133,10 +134,11 @@ h1{
     color: rgba(235,89,82,255);
     border-radius: 50px;
     font-size: 16px;
-padding-left: 4px;
+    padding-left: 4px;
+    margin-right: 10px;
 }
 
-/* --zona INNFO LATO DX-- */
+/* --zona INFO LATO DX-- */
 .editorial{
     color: white;
     border-radius: 15px;
@@ -144,6 +146,7 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
 
 .q1goals{
@@ -153,6 +156,7 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
 
 .recruiting{
@@ -162,6 +166,7 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
 
 .mobile{
@@ -171,6 +176,7 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
 
 .website{
@@ -180,6 +186,7 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
 
 .sales{
@@ -189,4 +196,5 @@ padding-left: 4px;
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
+    margin-left: 5px;
 }
