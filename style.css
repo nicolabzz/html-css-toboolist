@@ -69,19 +69,16 @@ h1{
 .new-task{
     width: 100%;
     height: 100px;
-    border: 1px solid black;
 }
 
 .today{
     width: 100%;
     height: 225px;
-    border: 1px solid black;
 }
 
 .upcoming{
     width: 100%;
     height: 225px;
-    border: 1px solid black;
 }
 
 .titoli{
@@ -106,19 +103,16 @@ h1{
 #new-task-object{
     height: 60px;
     width: 100%;
-    border: 1px solid black;
 }
 
 #today-object{
     height: 195px;
     width: 100%;
-    border: 1px solid rgb(0, 0, 0);
 }
 
 #upcoming-object{
     height: 195px;
     width: 100%;
-    border: 1px solid rgb(0, 0, 0);
 }
 
 .object-line{
@@ -145,72 +139,54 @@ padding-left: 4px;
 /* --zona INNFO LATO DX-- */
 .editorial{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(69,171,234,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
-}
-
-.editorial{
-    color: white;
-    border-radius: 10px;
-    background-color: rgba(69,171,234,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
 
 .q1goals{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(156,114,228,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
 
 .recruiting{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(100,192,169,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
 
 .mobile{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(242,158,51,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
 
 .website{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(216,99,161,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
 
 .sales{
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(176,201,38,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
-}
-
-.editorial{
-    color: white;
-    border-radius: 10px;
-    background-color: rgba(69,171,234,255);
-    font-size: 15px;
-    font-weight: 700;
-    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 7px 15px;
 }
