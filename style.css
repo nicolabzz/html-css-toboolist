@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+/* -----HEADER----- */
+header{
+    text-align: justify;
+    background-color:rgb(255, 255, 255);
+    height: 70px;
+    background-image: url(img/logo\ copia.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+}
+
+h1{
+    font-family: 'PT Sans', sans-serif;
+    text-align:left;
+    padding: 15px 0 40px 70px;
+}
+
+/* -----MAIN----- */
+.conteiner{
+    width: 900px;
+    height: 650px;
+    margin: auto;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.head-div{
+    top: 0;
+    border-bottom: 2px solid rgba(143, 143, 143, 0.5);
+    width: 100%;
+    padding: 20px 65px 13px 65px;
+}
+
+.add{
+    font-family: 'PT Sans', sans-serif;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* -----HEADER----- */
+#add-task{
+    background-color: rgba(71,173,241,255);
+    color: white;
+    font-weight: 580;
+    padding: 8px 14px;
+}
+
+#add-section{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgba(143, 143, 143, 0.5);
+    color: rgba(143, 143, 143, 0.5);
+    font-weight: bold;
+    padding: 6px 14px;
+}
+
+/* -----sezione: NEW TASK----- */
+.new-task{
+    margin-top: 55;
+    width: 100%;
+    border: 1px solid black;
+    
+}
+
+.new-task-subject{
+    
+}
