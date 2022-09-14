@@ -9,20 +9,20 @@ body{
 }
 
 /* -----HEADER----- */
-.toboolist{
-    font-family: 'PT Sans', sans-serif;
-    display: inline;
-    vertical-align: middle;
+header{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 40px;
+    padding: 13px 23px;
 }
 
 .img-logo{
     vertical-align: middle;
 }
 
-header{
-    background-color:rgb(255, 255, 255);
-    margin-bottom: 40px;
-    padding: 13px 23px;
+.toboolist{
+    font-family: 'PT Sans', sans-serif;
+    display: inline;
+    vertical-align: middle;
 }
 
 /* -----MAIN----- */
