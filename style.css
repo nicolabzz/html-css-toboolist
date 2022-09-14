@@ -139,62 +139,37 @@ header{
 }
 
 /* --zona INFO LATO DX-- */
-.editorial{
+.ob-topic{
     color: white;
     border-radius: 15px;
-    background-color: rgba(69,171,234,255);
     font-size: 13px;
     font-weight: 400;
     padding: 7px 15px;
     margin-left: 5px;
+}
+
+.editorial{
+    background-color: rgba(69,171,234,255);
 }
 
 .q1goals{
-    color: white;
-    border-radius: 15px;
     background-color: rgba(156,114,228,255);
-    font-size: 13px;
-    font-weight: 400;
-    padding: 7px 15px;
-    margin-left: 5px;
 }
 
 .recruiting{
-    color: white;
-    border-radius: 15px;
     background-color: rgba(100,192,169,255);
-    font-size: 13px;
-    font-weight: 400;
-    padding: 7px 15px;
-    margin-left: 5px;
 }
 
 .mobile{
-    color: white;
-    border-radius: 15px;
     background-color: rgba(242,158,51,255);
-    font-size: 13px;
-    font-weight: 400;
-    padding: 7px 15px;
-    margin-left: 5px;
 }
 
 .website{
-    color: white;
-    border-radius: 15px;
     background-color: rgba(216,99,161,255);
-    font-size: 13px;
-    font-weight: 400;
-    padding: 7px 15px;
-    margin-left: 5px;
 }
 
 .sales{
-    color: white;
-    border-radius: 15px;
     background-color: rgba(176,201,38,255);
-    font-size: 13px;
-    font-weight: 400;
-    padding: 7px 15px;
-    margin-left: 5px;
 }
+
+/* text-aling:center */
