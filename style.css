@@ -9,20 +9,20 @@ body{
 }
 
 /* -----HEADER----- */
-header{
-    text-align: justify;
-    background-color:rgb(255, 255, 255);
-    height: 70px;
-    background-image: url(img/logo\ copia.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin-bottom: 40px;
+.toboolist{
+    font-family: 'PT Sans', sans-serif;
+    display: inline;
+    vertical-align: middle;
 }
 
-h1{
-    font-family: 'PT Sans', sans-serif;
-    text-align:left;
-    padding: 15px 0 40px 70px;
+.img-logo{
+    vertical-align: middle;
+}
+
+header{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 40px;
+    padding: 13px 23px;
 }
 
 /* -----MAIN----- */
